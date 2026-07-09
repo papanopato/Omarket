@@ -1,0 +1,14 @@
+fastapi
+uvicorn[standard]
+httpx
+python-dotenv
+pydantic
+langchain
+chromadb
+psycopg2-binary
+redis
+pytest
+black
+isort
+flake8
+sentry-sdk
