@@ -1,0 +1,14 @@
+fastapi
+uvicorn[standard]
+httpx
+python-dotenv
+pydantic
+langchain     # optional: used in many RAG flows; adjust to your stack
+chromadb
+psycopg2-binary
+redis
+pytest
+black
+isort
+flake8
+sentry-sdk
